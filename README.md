@@ -1,2 +1,0 @@
-# QACODE
-learning purpose 
